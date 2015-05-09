@@ -1,0 +1,960 @@
+{
+    "completed_in": 0.03,
+    "max_id": 319929921617141760,
+    "max_id_str": "319929921617141760",
+    "next_page": "?page=2&max_id=319929921617141760&q=%22angularjs%22&rpp=20&include_entities=1&result_type=mixed%3Fcallback%3D",
+    "page": 1,
+    "query": "%22angularjs%22",
+    "refresh_url": "?since_id=319929921617141760&q=%22angularjs%22&result_type=mixed%3Fcallback%3D&include_entities=1",
+    "results": [
+        {
+            "created_at": "Thu, 04 Apr 2013 21:50:11 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/uu1SFQvtcb",
+                        "expanded_url": "http://henriquat.re/intro/angular/angularjsForDotNetDevelopers.html",
+                        "display_url": "henriquat.re/intro/angular/…",
+                        "indices": [
+                            56,
+                            78
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "from_user": "alaincyr",
+            "from_user_id": 17262260,
+            "from_user_id_str": "17262260",
+            "from_user_name": "Alain Cyr",
+            "geo": null,
+            "id": 319929921617141760,
+            "id_str": "319929921617141760",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/647431470/alain_profil_2-1_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/647431470/alain_profil_2-1_normal.jpg",
+            "source": "&lt;a href=&quot;http://levelupstudio.com/plume&quot;&gt;Plume for Android&lt;/a&gt;",
+            "text": "The two minute guide to AngularJS for .NET developers - http://t.co/uu1SFQvtcb"
+        },
+        {
+            "created_at": "Thu, 04 Apr 2013 21:25:59 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "from_user": "keltmanz",
+            "from_user_id": 255189642,
+            "from_user_id_str": "255189642",
+            "from_user_name": "Kelton Manzanares",
+            "geo": null,
+            "id": 319923830078468100,
+            "id_str": "319923830078468097",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2944253081/318505a66040937f32d9f74143d512d9_normal.jpeg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2944253081/318505a66040937f32d9f74143d512d9_normal.jpeg",
+            "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+            "text": "Trying to decide between Backbone.js and AngularJS for a Rails app with a couple of different dashboards, sudo-single page. Thoughts?"
+        },
+        {
+            "created_at": "Thu, 04 Apr 2013 21:19:59 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "angularjs",
+                        "name": "AngularJS",
+                        "id": 202230373,
+                        "id_str": "202230373",
+                        "indices": [
+                            16,
+                            26
+                        ]
+                    }
+                ]
+            },
+            "from_user": "dbashizi",
+            "from_user_id": 101113517,
+            "from_user_id_str": "101113517",
+            "from_user_name": "Dominique Bashizi",
+            "geo": null,
+            "id": 319922318342230000,
+            "id_str": "319922318342230016",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/1499067346/Dominique_Camera_Sports_Small_Transparent_normal.png",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1499067346/Dominique_Camera_Sports_Small_Transparent_normal.png",
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+            "text": "Having fun with @angularjs"
+        },
+        {
+            "created_at": "Thu, 04 Apr 2013 21:19:52 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/rvTZia6uKW",
+                        "expanded_url": "http://www.youtube.com/watch?v=cF_JsA9KsDM",
+                        "display_url": "youtube.com/watch?v=cF_JsA…",
+                        "indices": [
+                            44,
+                            66
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "angularjs",
+                        "name": "AngularJS",
+                        "id": 202230373,
+                        "id_str": "202230373",
+                        "indices": [
+                            27,
+                            37
+                        ]
+                    },
+                    {
+                        "screen_name": "mhevery",
+                        "name": "Misko Hevery",
+                        "id": 14822853,
+                        "id_str": "14822853",
+                        "indices": [
+                            75,
+                            83
+                        ]
+                    }
+                ]
+            },
+            "from_user": "jovoordeckers",
+            "from_user_id": 44814480,
+            "from_user_id_str": "44814480",
+            "from_user_name": "Jo Voordeckers",
+            "geo": null,
+            "id": 319922290173308900,
+            "id_str": "319922290173308929",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/1169927019/headshot_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1169927019/headshot_normal.jpg",
+            "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+            "text": "animation support lands in @angularjs 1.1.4 http://t.co/rvTZia6uKW demo by @mhevery looking good!"
+        },
+        {
+            "created_at": "Thu, 04 Apr 2013 21:16:06 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/AysujygEPI",
+                        "expanded_url": "http://henriquat.re/intro/angular/angularjsForDotNetDevelopers.html",
+                        "display_url": "henriquat.re/intro/angular/…",
+                        "indices": [
+                            83,
+                            105
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "ae6rt",
+                        "name": "Mark Petrovic",
+                        "id": 9607502,
+                        "id_str": "9607502",
+                        "indices": [
+                            3,
+                            9
+                        ]
+                    },
+                    {
+                        "screen_name": "ingorammer",
+                        "name": "Ingo Rammer",
+                        "id": 22484620,
+                        "id_str": "22484620",
+                        "indices": [
+                            12,
+                            23
+                        ]
+                    },
+                    {
+                        "screen_name": "AshMcConnell",
+                        "name": "Ash McConnell",
+                        "id": 20322424,
+                        "id_str": "20322424",
+                        "indices": [
+                            107,
+                            120
+                        ]
+                    }
+                ]
+            },
+            "from_user": "mobilesessions",
+            "from_user_id": 884069396,
+            "from_user_id_str": "884069396",
+            "from_user_name": "Mobile Sessions",
+            "geo": null,
+            "id": 319921341337849860,
+            "id_str": "319921341337849856",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2807430540/d8761354fee04282822b8a929ac92940_normal.png",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2807430540/d8761354fee04282822b8a929ac92940_normal.png",
+            "source": "&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot;&gt;Twitter for iPad&lt;/a&gt;",
+            "text": "RT @ae6rt: “@ingorammer: “The Two Minute Guide to AngularJS for .NET Developers” - http://t.co/AysujygEPI” @AshMcConnell",
+            "in_reply_to_status_id": 319405586787745800,
+            "in_reply_to_status_id_str": "319405586787745792"
+        },
+        {
+            "created_at": "Thu, 04 Apr 2013 21:14:06 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "bradlygreen",
+                        "name": "Brad Green",
+                        "id": 16604718,
+                        "id_str": "16604718",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ]
+            },
+            "from_user": "sebmade",
+            "from_user_id": 12237782,
+            "from_user_id_str": "12237782",
+            "from_user_name": "Sébastien Letélié",
+            "geo": null,
+            "id": 319920838537269250,
+            "id_str": "319920838537269248",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/52235750/seb2_normal.gif",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/52235750/seb2_normal.gif",
+            "source": "&lt;a href=&quot;http://www.hootsuite.com&quot;&gt;HootSuite&lt;/a&gt;",
+            "text": "RT @bradlygreen: If you missed the livestream of Misko on animation support in AngularJS 1.1.4, you can find it now on YouTube at..."
+        },
+        {
+            "created_at": "Thu, 04 Apr 2013 21:13:32 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/BpSHwOASQs",
+                        "expanded_url": "http://ASP.NET",
+                        "display_url": "ASP.NET",
+                        "indices": [
+                            78,
+                            100
+                        ]
+                    },
+                    {
+                        "url": "http://t.co/sNYkctgybI",
+                        "expanded_url": "http://dlvr.it/3B90Z3",
+                        "display_url": "dlvr.it/3B90Z3",
+                        "indices": [
+                            109,
+                            131
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "from_user": "ChicagooGoing",
+            "from_user_id": 1077884942,
+            "from_user_id_str": "1077884942",
+            "from_user_name": "Chicago oGoing",
+            "geo": null,
+            "id": 319920697956761600,
+            "id_str": "319920697956761600",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/3092250614/72441df72f617338f2ecaae798cc4bfd_normal.jpeg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/3092250614/72441df72f617338f2ecaae798cc4bfd_normal.jpeg",
+            "source": "&lt;a href=&quot;http://dlvr.it&quot;&gt;dlvr.it&lt;/a&gt;",
+            "text": "What's going on? LCNUG April 11: Building Single Page Apps with AngularJS and http://t.co/BpSHwOASQs Web API http://t.co/sNYkctgybI"
+        },
+        {
+            "created_at": "Thu, 04 Apr 2013 21:00:22 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/BThIblRre2",
+                        "expanded_url": "http://www.slideshare.net/ysilvestrov/js-fast-prototyping-with-angularjs-requirejs",
+                        "display_url": "slideshare.net/ysilvestrov/js…",
+                        "indices": [
+                            51,
+                            73
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "from_user": "slidebot",
+            "from_user_id": 246273889,
+            "from_user_id_str": "246273889",
+            "from_user_name": "slidebot",
+            "geo": null,
+            "id": 319917384683114500,
+            "id_str": "319917384683114498",
+            "iso_language_code": "fi",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/1232681981/slidebot_normal.png",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1232681981/slidebot_normal.png",
+            "source": "&lt;a href=&quot;http://deeeki.com/&quot;&gt;slidebot&lt;/a&gt;",
+            "text": "JS FAST Prototyping with AngularJS &amp; RequireJS http://t.co/BThIblRre2 (by ysilvestrov 2012-12-16) [en][DL:OK]"
+        },
+        {
+            "created_at": "Thu, 04 Apr 2013 20:58:10 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/k4EEfSqnV7",
+                        "expanded_url": "http://docs.angularjs.org/api/ngMock.$httpBackend",
+                        "display_url": "docs.angularjs.org/api/ngMock.$ht…",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "from_user": "moabi",
+            "from_user_id": 20131749,
+            "from_user_id_str": "20131749",
+            "from_user_name": "moabi david",
+            "geo": null,
+            "id": 319916830938505200,
+            "id_str": "319916830938505216",
+            "iso_language_code": "is",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/3392389832/c70827f98d0c517e95c28a92eb89e482_normal.jpeg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/3392389832/c70827f98d0c517e95c28a92eb89e482_normal.jpeg",
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+            "text": "http://t.co/k4EEfSqnV7 angular &amp; http Backend"
+        },
+        {
+            "created_at": "Thu, 04 Apr 2013 20:53:34 +0000",
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "angularjs",
+                        "indices": [
+                            5,
+                            15
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "http://t.co/SvWRQLuAkR",
+                        "expanded_url": "http://zachsnow.com/blog/2013/friendlier-interface-input/",
+                        "display_url": "zachsnow.com/blog/2013/frie…",
+                        "indices": [
+                            112,
+                            134
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "from_user": "therealzachsnow",
+            "from_user_id": 304029852,
+            "from_user_id_str": "304029852",
+            "from_user_name": "Zach Snow",
+            "geo": null,
+            "id": 319915670315864060,
+            "id_str": "319915670315864064",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/1379625851/z_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1379625851/z_normal.jpg",
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+            "text": "More #angularjs end-to-end testing, this time making the interface to `input` friendlier to weird model names.\n\nhttp://t.co/SvWRQLuAkR"
+        },
+        {
+            "created_at": "Thu, 04 Apr 2013 20:51:22 +0000",
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "angularjs",
+                        "indices": [
+                            33,
+                            43
+                        ]
+                    },
+                    {
+                        "text": "phonegap",
+                        "indices": [
+                            60,
+                            69
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/F6ISKT4Ojx",
+                        "expanded_url": "https://github.com/willkoper/angular-phonegap-ios",
+                        "display_url": "github.com/willkoper/angu…",
+                        "indices": [
+                            88,
+                            111
+                        ]
+                    },
+                    {
+                        "url": "http://t.co/6CpWGdl5aT",
+                        "expanded_url": "http://briantford.com/blog/angular-phonegap.html",
+                        "display_url": "briantford.com/blog/angular-p…",
+                        "indices": [
+                            130,
+                            152
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "will_koper",
+                        "name": "WillKoper",
+                        "id": 16214557,
+                        "id_str": "16214557",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    },
+                    {
+                        "screen_name": "briantford",
+                        "name": "Brian Ford",
+                        "id": 290864535,
+                        "id_str": "290864535",
+                        "indices": [
+                            117,
+                            128
+                        ]
+                    }
+                ]
+            },
+            "from_user": "filmaj",
+            "from_user_id": 22651735,
+            "from_user_id_str": "22651735",
+            "from_user_name": "Fil Maj",
+            "geo": null,
+            "id": 319915118852980740,
+            "id_str": "319915118852980736",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/3067581668/90ab54207aa2bceea25c649186030513_normal.png",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/3067581668/90ab54207aa2bceea25c649186030513_normal.png",
+            "source": "&lt;a href=&quot;https://twitter.com/falcon_android&quot;&gt;FalconPro&lt;/a&gt;",
+            "text": "RT @will_koper: Want to build an #angularjs iphone app with #phonegap? Use my template: https://t.co/F6ISKT4Ojx (h/t @briantford: http://t.co/6CpWGdl5aT)"
+        },
+        {
+            "created_at": "Thu, 04 Apr 2013 20:33:36 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/AysujygEPI",
+                        "expanded_url": "http://henriquat.re/intro/angular/angularjsForDotNetDevelopers.html",
+                        "display_url": "henriquat.re/intro/angular/…",
+                        "indices": [
+                            83,
+                            105
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "ae6rt",
+                        "name": "Mark Petrovic",
+                        "id": 9607502,
+                        "id_str": "9607502",
+                        "indices": [
+                            3,
+                            9
+                        ]
+                    },
+                    {
+                        "screen_name": "ingorammer",
+                        "name": "Ingo Rammer",
+                        "id": 22484620,
+                        "id_str": "22484620",
+                        "indices": [
+                            12,
+                            23
+                        ]
+                    },
+                    {
+                        "screen_name": "AshMcConnell",
+                        "name": "Ash McConnell",
+                        "id": 20322424,
+                        "id_str": "20322424",
+                        "indices": [
+                            107,
+                            120
+                        ]
+                    }
+                ]
+            },
+            "from_user": "tinyBIGideas",
+            "from_user_id": 21356034,
+            "from_user_id_str": "21356034",
+            "from_user_name": "Craig Thomas",
+            "geo": null,
+            "id": 319910645090885600,
+            "id_str": "319910645090885632",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2210097865/2_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2210097865/2_normal.jpg",
+            "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+            "text": "RT @ae6rt: “@ingorammer: “The Two Minute Guide to AngularJS for .NET Developers” - http://t.co/AysujygEPI” @AshMcConnell",
+            "in_reply_to_status_id": 319405586787745800,
+            "in_reply_to_status_id_str": "319405586787745792"
+        },
+        {
+            "created_at": "Thu, 04 Apr 2013 20:31:45 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/zZsDElQAOf",
+                        "expanded_url": "http://www.youtube.com/watch?v=cF_JsA9KsDM",
+                        "display_url": "youtube.com/watch?v=cF_JsA…",
+                        "indices": [
+                            130,
+                            152
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "bradlygreen",
+                        "name": "Brad Green",
+                        "id": 16604718,
+                        "id_str": "16604718",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ]
+            },
+            "from_user": "xrevelon",
+            "from_user_id": 1080047461,
+            "from_user_id_str": "1080047461",
+            "from_user_name": "Marek Raida",
+            "geo": null,
+            "id": 319910179804180500,
+            "id_str": "319910179804180481",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/3107140023/37f7d6ade73e53ed7420e44deed6045f_normal.png",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/3107140023/37f7d6ade73e53ed7420e44deed6045f_normal.png",
+            "source": "&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot;&gt;Twitter for iPad&lt;/a&gt;",
+            "text": "RT @bradlygreen: If you missed the livestream of Misko on animation support in AngularJS 1.1.4, you can find it now on YouTube at http://t.co/zZsDElQAOf"
+        },
+        {
+            "created_at": "Thu, 04 Apr 2013 20:22:40 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ericcasequin",
+                        "name": "Eric Casequin",
+                        "id": 14502587,
+                        "id_str": "14502587",
+                        "indices": [
+                            0,
+                            13
+                        ]
+                    },
+                    {
+                        "screen_name": "angularjs",
+                        "name": "AngularJS",
+                        "id": 202230373,
+                        "id_str": "202230373",
+                        "indices": [
+                            14,
+                            24
+                        ]
+                    }
+                ]
+            },
+            "from_user": "debuggex",
+            "from_user_id": 1209348583,
+            "from_user_id_str": "1209348583",
+            "from_user_name": "Debuggex",
+            "geo": null,
+            "id": 319907893296115700,
+            "id_str": "319907893296115712",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/3294567946/7f312910605dc3161bc2347fdb3fe6a6_normal.png",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/3294567946/7f312910605dc3161bc2347fdb3fe6a6_normal.png",
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+            "text": "@ericcasequin @angularjs thanks for sharing!",
+            "to_user": "ericcasequin",
+            "to_user_id": 14502587,
+            "to_user_id_str": "14502587",
+            "to_user_name": "Eric Casequin",
+            "in_reply_to_status_id": 319906952580833300,
+            "in_reply_to_status_id_str": "319906952580833280"
+        },
+        {
+            "created_at": "Thu, 04 Apr 2013 20:18:55 +0000",
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "regex",
+                        "indices": [
+                            84,
+                            90
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "http://t.co/0Fut1IraSm",
+                        "expanded_url": "http://www.debuggex.com/",
+                        "display_url": "debuggex.com",
+                        "indices": [
+                            61,
+                            83
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "angularjs",
+                        "name": "AngularJS",
+                        "id": 202230373,
+                        "id_str": "202230373",
+                        "indices": [
+                            50,
+                            60
+                        ]
+                    }
+                ]
+            },
+            "from_user": "ericcasequin",
+            "from_user_id": 14502587,
+            "from_user_id_str": "14502587",
+            "from_user_name": "Eric Casequin",
+            "geo": null,
+            "id": 319906952580833300,
+            "id_str": "319906952580833280",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2627570220/x13xyqbs0p9g0caumiwn_normal.jpeg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2627570220/x13xyqbs0p9g0caumiwn_normal.jpeg",
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+            "text": "Do you Regex alot? This is a cool tool built with @angularjs http://t.co/0Fut1IraSm #regex"
+        },
+        {
+            "created_at": "Thu, 04 Apr 2013 20:13:05 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/AysujygEPI",
+                        "expanded_url": "http://henriquat.re/intro/angular/angularjsForDotNetDevelopers.html",
+                        "display_url": "henriquat.re/intro/angular/…",
+                        "indices": [
+                            83,
+                            105
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "ae6rt",
+                        "name": "Mark Petrovic",
+                        "id": 9607502,
+                        "id_str": "9607502",
+                        "indices": [
+                            3,
+                            9
+                        ]
+                    },
+                    {
+                        "screen_name": "ingorammer",
+                        "name": "Ingo Rammer",
+                        "id": 22484620,
+                        "id_str": "22484620",
+                        "indices": [
+                            12,
+                            23
+                        ]
+                    },
+                    {
+                        "screen_name": "AshMcConnell",
+                        "name": "Ash McConnell",
+                        "id": 20322424,
+                        "id_str": "20322424",
+                        "indices": [
+                            107,
+                            120
+                        ]
+                    }
+                ]
+            },
+            "from_user": "agustoll",
+            "from_user_id": 119059240,
+            "from_user_id_str": "119059240",
+            "from_user_name": "Agu Stoll",
+            "geo": null,
+            "id": 319905481948799000,
+            "id_str": "319905481948798976",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2899208262/0b7af9637c00413190c35dd8d675c4c3_normal.jpeg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2899208262/0b7af9637c00413190c35dd8d675c4c3_normal.jpeg",
+            "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+            "text": "RT @ae6rt: “@ingorammer: “The Two Minute Guide to AngularJS for .NET Developers” - http://t.co/AysujygEPI” @AshMcConnell",
+            "in_reply_to_status_id": 319405586787745800,
+            "in_reply_to_status_id_str": "319405586787745792"
+        },
+        {
+            "created_at": "Thu, 04 Apr 2013 20:10:46 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "from_user": "mitulsuthar",
+            "from_user_id": 17302389,
+            "from_user_id_str": "17302389",
+            "from_user_name": "mitulsuthar",
+            "geo": null,
+            "id": 319904901717176300,
+            "id_str": "319904901717176321",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/1715826857/mitul123_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1715826857/mitul123_normal.jpg",
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot;&gt;TweetDeck&lt;/a&gt;",
+            "text": "Totally want to try out AngularJS this weekend."
+        },
+        {
+            "created_at": "Thu, 04 Apr 2013 20:09:30 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/zZPDyJXULc",
+                        "expanded_url": "http://goo.gl/Yy8Sq",
+                        "display_url": "goo.gl/Yy8Sq",
+                        "indices": [
+                            109,
+                            131
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "vojtajina",
+                        "name": "Vojta Jína",
+                        "id": 280042052,
+                        "id_str": "280042052",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    },
+                    {
+                        "screen_name": "JsKarma",
+                        "name": "Karma",
+                        "id": 595962863,
+                        "id_str": "595962863",
+                        "indices": [
+                            42,
+                            50
+                        ]
+                    },
+                    {
+                        "screen_name": "angularjs",
+                        "name": "AngularJS",
+                        "id": 202230373,
+                        "id_str": "202230373",
+                        "indices": [
+                            51,
+                            61
+                        ]
+                    }
+                ]
+            },
+            "from_user": "skusunam",
+            "from_user_id": 25702656,
+            "from_user_id_str": "25702656",
+            "from_user_name": "Srinivas Kusunam",
+            "geo": null,
+            "id": 319904581138141200,
+            "id_str": "319904581138141186",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/3190937733/420594c29ab2020495f4e5a87cfecb6d_normal.jpeg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/3190937733/420594c29ab2020495f4e5a87cfecb6d_normal.jpeg",
+            "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+            "text": "RT @vojtajina: Testing Extravaganza about @JsKarma @angularjs and testing in general - tomorrow (Thu) at 6pm http://t.co/zZPDyJXULc"
+        },
+        {
+            "created_at": "Thu, 04 Apr 2013 20:07:52 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/AysujygEPI",
+                        "expanded_url": "http://henriquat.re/intro/angular/angularjsForDotNetDevelopers.html",
+                        "display_url": "henriquat.re/intro/angular/…",
+                        "indices": [
+                            83,
+                            105
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "ae6rt",
+                        "name": "Mark Petrovic",
+                        "id": 9607502,
+                        "id_str": "9607502",
+                        "indices": [
+                            3,
+                            9
+                        ]
+                    },
+                    {
+                        "screen_name": "ingorammer",
+                        "name": "Ingo Rammer",
+                        "id": 22484620,
+                        "id_str": "22484620",
+                        "indices": [
+                            12,
+                            23
+                        ]
+                    },
+                    {
+                        "screen_name": "AshMcConnell",
+                        "name": "Ash McConnell",
+                        "id": 20322424,
+                        "id_str": "20322424",
+                        "indices": [
+                            107,
+                            120
+                        ]
+                    }
+                ]
+            },
+            "from_user": "masakielastic",
+            "from_user_id": 4324901,
+            "from_user_id_str": "4324901",
+            "from_user_name": "Masaki Kagaya",
+            "geo": null,
+            "id": 319904169949548540,
+            "id_str": "319904169949548544",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/1705063545/38904_1364315830908_1321997631_30887638_2280978_n_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1705063545/38904_1364315830908_1321997631_30887638_2280978_n_normal.jpg",
+            "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+            "text": "RT @ae6rt: “@ingorammer: “The Two Minute Guide to AngularJS for .NET Developers” - http://t.co/AysujygEPI” @AshMcConnell",
+            "in_reply_to_status_id": 319405586787745800,
+            "in_reply_to_status_id_str": "319405586787745792"
+        },
+        {
+            "created_at": "Thu, 04 Apr 2013 20:04:04 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/zZsDElQAOf",
+                        "expanded_url": "http://www.youtube.com/watch?v=cF_JsA9KsDM",
+                        "display_url": "youtube.com/watch?v=cF_JsA…",
+                        "indices": [
+                            130,
+                            152
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "bradlygreen",
+                        "name": "Brad Green",
+                        "id": 16604718,
+                        "id_str": "16604718",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ]
+            },
+            "from_user": "fmpwizard",
+            "from_user_id": 17423396,
+            "from_user_id_str": "17423396",
+            "from_user_name": "Diego Medina",
+            "geo": null,
+            "id": 319903214566797300,
+            "id_str": "319903214566797312",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2717739627/e303f69c8079ab251d51e315819a6245_normal.jpeg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2717739627/e303f69c8079ab251d51e315819a6245_normal.jpeg",
+            "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+            "text": "RT @bradlygreen: If you missed the livestream of Misko on animation support in AngularJS 1.1.4, you can find it now on YouTube at http://t.co/zZsDElQAOf"
+        }
+    ],
+    "results_per_page": 20,
+    "since_id": 0,
+    "since_id_str": "0"
+}
